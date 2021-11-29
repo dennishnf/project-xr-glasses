@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="437.53791"
-     inkscape:cy="-80.030936"
+     inkscape:zoom="1.4"
+     inkscape:cx="412.70568"
+     inkscape:cy="275.54276"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,27 +71,27 @@
        id="rect911-9-7-0-9-3-6-0"
        width="128.56139"
        height="15.056339"
-       x="38.182117"
-       y="160.58397"
+       x="17.869633"
+       y="42.45084"
        ry="5.4582157"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="46.708988"
-       y="172.48895"
+       x="26.396503"
+       y="54.355824"
        id="text817-6"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan815-2"
-         x="46.708988"
-         y="172.48895"
+         x="26.396503"
+         y="54.355824"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Project XR Glasses</tspan><tspan
          sodipodi:role="line"
-         x="46.708988"
-         y="185.71812"
+         x="26.396503"
+         y="67.584991"
          style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan819-6" /></text>
     <rect
@@ -99,50 +99,50 @@
        id="rect911-9-7-1"
        width="67.821754"
        height="13.163209"
-       x="70.337425"
-       y="189.40926"
+       x="50.02494"
+       y="71.276123"
        ry="4.7719193"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="76.683815"
-       y="198.78838"
+       x="56.37133"
+       y="80.655243"
        id="text823-8"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan821-7"
-         x="76.683815"
-         y="198.78838"
+         x="56.37133"
+         y="80.655243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">face detection</tspan></text>
     <rect
-       style="fill:#4dbd16;fill-opacity:0.38164255;stroke:#050000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#4dbd16;fill-opacity:0.38164254;stroke:#050000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect911-9-7-0-92"
        width="86.315971"
        height="27.499689"
-       x="64.053879"
-       y="258.34091"
+       x="43.741394"
+       y="140.20778"
        ry="9.9691715"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="107.59412"
-       y="266.78357"
+       x="87.281631"
+       y="148.65044"
        id="text827-0"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan825-2"
-         x="107.59412"
-         y="266.78357"
+         x="87.281631"
+         y="148.65044"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Run the pre defined</tspan><tspan
          sodipodi:role="line"
-         x="107.59412"
-         y="280.01273"
+         x="87.281631"
+         y="161.87959"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan101">glasses models</tspan></text>
     <rect
@@ -150,27 +150,27 @@
        id="rect911-9-7-0-9-37"
        width="169.02481"
        height="28.565676"
-       x="22.947552"
-       y="332.26923"
+       x="2.6350677"
+       y="214.13609"
        ry="10.355613"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="109.09675"
-       y="341.92258"
+       x="88.784264"
+       y="223.78944"
        id="text831-5"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan829-9"
-         x="110.32493"
-         y="341.92258"
+         x="90.012444"
+         y="223.78944"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Anchor the points of the face with </tspan><tspan
          sodipodi:role="line"
-         x="109.09675"
-         y="355.15173"
+         x="88.784264"
+         y="237.0186"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan103">the points of the 3d model of the lenses</tspan></text>
     <rect
@@ -178,23 +178,23 @@
        id="rect911-9-7-0-9-3-3"
        width="96.922104"
        height="13.146914"
-       x="59.133068"
-       y="303.23657"
+       x="38.820583"
+       y="185.10344"
        ry="4.7660117"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="63.00795"
-       y="312.12576"
+       x="42.695465"
+       y="193.99263"
        id="text831-3-6"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan829-6-1"
-         x="63.00795"
-         y="312.12576"
+         x="42.695465"
+         y="193.99263"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Select the glass model</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -209,31 +209,31 @@
            x="-182.85715"
            y="28.233971" /></flowRegion><flowPara
          id="flowPara1288" /></flowRoot>    <rect
-       style="fill:#4dbd16;fill-opacity:0.38164255;stroke:#050000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#4dbd16;fill-opacity:0.38164254;stroke:#050000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect911-9-7-1-3"
        width="75.079391"
        height="25.712517"
-       x="66.479347"
-       y="216.86398"
+       x="46.166862"
+       y="98.73085"
        ry="9.3212872"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="104.97601"
-       y="226.09216"
+       x="84.663528"
+       y="107.95903"
        id="text823-8-6"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan821-7-7"
-         x="106.20419"
-         y="226.09216"
+         x="85.891701"
+         y="107.95903"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Landmark points </tspan><tspan
          sodipodi:role="line"
-         x="104.97601"
-         y="239.32133"
+         x="84.663528"
+         y="121.1882"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan99">extraction</tspan></text>
     <rect
@@ -241,55 +241,55 @@
        id="rect911-9-7-0-9-3-3-5"
        width="134.61063"
        height="13.037823"
-       x="43.290508"
-       y="376.43286"
+       x="22.978024"
+       y="258.29974"
        ry="4.7264643"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="47.110851"
-       y="385.26752"
+       x="26.798367"
+       y="267.1344"
        id="text831-3-6-3"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan829-6-1-5"
-         x="47.110851"
-         y="385.26752"
+         x="26.798367"
+         y="267.1344"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Show the face with the glasses</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 107.14699,245.39676 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
+       d="m 86.834506,127.26363 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
        id="path931"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 106.00984,203.24746 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
+       d="m 85.697356,85.11433 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
        id="path931-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 107.74853,288.89688 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
+       d="m 87.436046,170.76375 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
        id="path931-2"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 107.9753,319.51295 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.662816,201.37982 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
        id="path931-2-9"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 109.86519,362.37545 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.552706,244.24232 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
        id="path931-2-9-1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="110.01"
@@ -297,17 +297,20 @@
     <g
        id="g8647"
        inkscape:export-xdpi="110.01"
-       inkscape:export-ydpi="110.01">
+       inkscape:export-ydpi="110.01"
+       transform="translate(-20.312484,-118.13313)"
+       style="stroke-width:1.26;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
          id="path993"
-         d="m 109.99108,391.87203 -0.37798,10.58333 h 115.28274 l -1.13393,-92.98215 h -66.14583"
-         style="fill:none;stroke:#000000;stroke-width:1.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 109.5621,392.47902 v 10.02736 h 96.36186 l -0.0548,-93.08419 -47.98584,0.0475"
+         style="fill:none;stroke:#000000;stroke-width:1.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
       <path
          inkscape:connector-curvature="0"
          id="path931-2-9-2"
          d="m 168.30451,309.4291 -10.68844,0.0441 3.76804,1.9547 -3.50079,-1.95824 3.18213,-1.91328 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:1.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
