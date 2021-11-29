@@ -42,6 +42,9 @@ All members of the group managed to successfully implement Face Tracking using U
 
 The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
 
+<p align="center">
+<img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Flowchart" width="350"/>
+</p>
 
 ### Update 30 Nov 2021:
 
