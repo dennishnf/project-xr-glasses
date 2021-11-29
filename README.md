@@ -3,7 +3,7 @@
 Repository for Glasses project of Extended reality (XR)
 
 
-<img src="imgs_/drawing.png" alt="Flowchart" width="400"/>
+<img src="imgs_/drawing.png" alt="Flowchart" width="350"/>
 
 
 
