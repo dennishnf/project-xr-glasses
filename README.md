@@ -45,6 +45,11 @@ Successfully implemented the anchoring between the face points and the 3d lens m
 
 
 
+### References
+
+- [Unity AR Foundation Tutorial - Getting Started with Face Tracking](https://www.youtube.com/watch?v=y0L_AdJICEU)
+
+
 ### Group
 
 People: Miky, Yao, Dennis
