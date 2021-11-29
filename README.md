@@ -4,7 +4,7 @@ Repository for Glasses project of Extended reality (XR)
 
 
 ![Flowchart](imgs_/drawing.png)
-<img src="imgs_/drawing.png" alt="Flowchart" width="200"/>
+<img src="imgs_/drawing.png" alt="Flowchart" width="400"/>
 
 
 
