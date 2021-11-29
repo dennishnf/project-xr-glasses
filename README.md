@@ -46,6 +46,8 @@ The main challenges faced were: compatibility with android devices and successfu
 <img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
 </p>
 
+<!---
+
 ### Update 30 Nov 2021:
 
 Successfully implemented the anchoring between the face points and the 3d lens model in unity.
@@ -53,6 +55,8 @@ Successfully implemented the anchoring between the face points and the 3d lens m
 <p align="center">
 <img src="imgs_/face-landmarks-glasses.png" alt="Examples" width="600"/>
 </p>
+
+--->
 
 
 ## References
