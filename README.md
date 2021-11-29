@@ -3,8 +3,9 @@
 Repository for Glasses project of Extended reality (XR)
 
 
+<p align="center">
 <img src="imgs_/drawing.png" alt="Flowchart" width="350"/>
-
+</p>
 
 
 ### Unity version: 2020.3.20f1
