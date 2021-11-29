@@ -3,16 +3,27 @@
 Repository for Glasses project of Extended reality (XR)
 
 
+
+### Unity version: 
+
+Version: 2020.3.20f1   
+Platforms: Ubuntu and Windows   
+Devices: Android   
+
+
+### Flowchart: 
+
 <p align="center">
 <img src="imgs_/drawing.png" alt="Flowchart" width="350"/>
 </p>
 
 
-### Unity version: 
+### Pseudo code: 
 
-Version: 2020.3.20f1
-Platforms: Ubuntu and Windows
-Devices: Android
+```
+asds
+
+```
 
 
 ### Update 23 Nov 2021:
