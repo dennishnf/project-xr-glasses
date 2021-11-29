@@ -6,8 +6,8 @@ Repository for Glasses project of Extended reality (XR)
 
 ### Unity version: 
 
-Version: 2020.3.20f1   
-Platforms: Ubuntu and Windows   
+Unity Version: 2020.3.20f1   
+Developed Platforms: Ubuntu 20.04 and Windows 10   
 Devices: Android   
 
 
