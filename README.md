@@ -21,7 +21,14 @@ Devices: Android
 ### Pseudo code: 
 
 ```
-asds
+start the face detection
+perform landmark extraction
+run pre defined glasses models
+
+for selected_glasses in models_list:
+	anchor the points of face with glass 3d model
+	show the face with the glasses
+	read option of glasses
 
 ```
 
