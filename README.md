@@ -1,24 +1,26 @@
 # Project Glasses
 
-Repository for Glasses project of Extended reality (XR)
+
+## Description
+
+This project consists of the development of an augmented reality application that allows users to quickly and easily try on various models of glasses and visualize in real time the price as well as their design. 
 
 
-
-### Unity version: 
+## Unity version
 
 Unity Version: 2020.3.20f1   
 Developed Platforms: Ubuntu 20.04 and Windows 10   
 Devices: Android   
 
 
-### Flowchart: 
+## Flowchart
 
 <p align="center">
 <img src="imgs_/drawing.png" alt="Flowchart" width="350"/>
 </p>
 
 
-### Pseudo code: 
+## Pseudo code: 
 
 ```
 start the face detection
@@ -31,6 +33,8 @@ for selected_glasses in models_list:
 	read option of glasses
 ```
 
+
+## Updates
 
 ### Update 23 Nov 2021:
 
@@ -45,7 +49,7 @@ Successfully implemented the anchoring between the face points and the 3d lens m
 
 
 
-### References
+## References
 
 - [Setting Up AR Foundation](https://learn.unity.com/tutorial/setting-up-ar-foundation#5fe2be51edbc2a1f5e69872f)
 
@@ -57,8 +61,13 @@ Successfully implemented the anchoring between the face points and the 3d lens m
 ](https://www.youtube.com/watch?v=JQEovMKq2U0)
 
 
-### Group
 
-People: Miky, Yao, Dennis
+## Group
+
+- Miky  
+
+- Yao    
+
+- Dennis   
 
 
