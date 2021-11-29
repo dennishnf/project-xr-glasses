@@ -19,8 +19,12 @@ The main challenges faced were: compatibility with android devices and successfu
 
 ### Update 30 Nov 2021:
 
-Se ha implementado exitosamente 
+Successfully implemented the anchoring between the face points and the 3d lens model in unity.
 
-Group: Miky, Yao, Dennis
+
+
+### Group
+
+People: Miky, Yao, Dennis
 
 
