@@ -1,4 +1,4 @@
-# Project Glasses
+# Project XR Glasses
 
 
 ## Description
