@@ -41,7 +41,7 @@ for selected_glasses in models_list:
 Face detection and extraction of the most relevant points of the face were successfully implemented. The AR Foundation and ARKit Face Tracking packages were used for this purpose. The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
 
 <p align="center">
-<img src="imgs_/face-mask.jpg" alt="Examples" width="600"/>
+<img src="imgs_/face-mask.png" alt="Examples" width="600"/>
 </p>
 
 

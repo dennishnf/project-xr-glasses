@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="diagram.svg"
+   inkscape:export-filename="/home/dennishnf/Desktop/CRI-DiSc-M1/Xtended-Reality/project-glasses/imgs_/diagram.png"
+   inkscape:export-xdpi="110.01"
+   inkscape:export-ydpi="110.01">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="568.41997"
-     inkscape:cy="676.74663"
+     inkscape:cx="-166.97107"
+     inkscape:cy="660.58419"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +74,7 @@
        id="rect911-9-7-0-9-3-6-0"
        width="118.99319"
        height="12.97169"
-       x="24.77577"
+       x="31.654942"
        y="26.922453"
        ry="4.7024899"
        inkscape:export-xdpi="110.01"
@@ -79,18 +82,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="32.271061"
+       x="39.150234"
        y="36.716034"
        id="text817-6"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan815-2"
-         x="32.271061"
+         x="39.150234"
          y="36.716034"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:20;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Project XR Glasses</tspan><tspan
          sodipodi:role="line"
-         x="32.271061"
+         x="39.150234"
          y="142.29167"
          style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan819-6" /></text>
@@ -100,7 +103,7 @@
        width="67.821754"
        height="13.163209"
        x="55.370331"
-       y="53.636333"
+       y="52.048832"
        ry="4.7719193"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01" />
@@ -108,15 +111,15 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="61.716721"
-       y="63.015453"
+       y="61.427952"
        id="text823-8"
        inkscape:export-xdpi="110.01"
        inkscape:export-ydpi="110.01"><tspan
          sodipodi:role="line"
          id="tspan821-7"
          x="61.716721"
-         y="63.015453"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">face detection</tspan></text>
+         y="61.427952"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Face detection</tspan></text>
     <rect
        style="fill:#4dbd16;fill-opacity:0.38164254;stroke:#050000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect911-9-7-0-92"
@@ -269,7 +272,7 @@
        inkscape:export-ydpi="110.01" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.25999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 91.042747,68.003708 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
+       d="m 91.042747,67.474541 -0.0977,10.68808 2.00452,-3.74177 -2.00452,3.4745 -1.87089,-3.20723 v 0"
        id="path931-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="110.01"
