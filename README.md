@@ -92,11 +92,9 @@ Packages:
 
 ## Group
 
-- Miky [https://github.com/MrMazagngy](MrMazagngy)  
-
-- Yao [https://github.com/iyfyao](iyfyao)    
-
-- Dennis [https://github.com/dennishnf](dennishnf)   
+- Miky [@MrMazagngy](https://github.com/MrMazagngy)   
+- Yao [@iyfyao](https://github.com/iyfyao)    
+- Dennis [@dennishnf](https://github.com/dennishnf)   
 
 
 
