@@ -16,7 +16,7 @@ Intended Devices: Android
 ## Flowchart
 
 <p align="center">
-<img src="imgs_/drawing.png" alt="Flowchart" width="350"/>
+<img src="imgs_/diagram.png" alt="Flowchart" width="350"/>
 </p>
 
 
@@ -41,7 +41,7 @@ for selected_glasses in models_list:
 Face detection and extraction of the most relevant points of the face were successfully implemented. The AR Foundation and ARKit Face Tracking packages were used for this purpose. The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
 
 <p align="center">
-<img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
+<img src="imgs_/face-mask.jpg" alt="Examples" width="600"/>
 </p>
 
 
