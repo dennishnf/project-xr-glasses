@@ -9,7 +9,7 @@ This project consists of the development of an augmented reality application tha
 ## Unity version
 
 Unity Version: 2020.3.20f1   
-Developing Platforms: Ubuntu 20.04 
+Developing Platforms: Ubuntu 20.04     
 Intended Devices: Android   
 
 
