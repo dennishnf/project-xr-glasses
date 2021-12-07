@@ -59,6 +59,23 @@ Successfully implemented the anchoring between the face points and the 3d lens m
 --->
 
 
+
+## Using this repository
+
+Download or clone, then Settings Build and Run, then Switch Platform to Android.
+
+Packages:
+
+- AR Fundation   
+
+- AR Core XR Plugin   
+
+- ARKit Face Tracking   
+
+- ARKit XR Pluigin       
+
+
+
 ## References
 
 - [Setting Up AR Foundation](https://learn.unity.com/tutorial/setting-up-ar-foundation#5fe2be51edbc2a1f5e69872f)
