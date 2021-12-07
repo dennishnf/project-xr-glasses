@@ -38,9 +38,7 @@ for selected_glasses in models_list:
 
 ### Update 23 Nov 2021:
 
-All members of the group managed to successfully implement Face Tracking using Unity AR Foundation. This way we were able to detect the face on an android device. 
-
-The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
+Face detection and extraction of the most relevant points of the face were successfully implemented. The AR Foundation and ARKit Face Tracking packages were used for this purpose. The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
 
 <p align="center">
 <img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
@@ -49,36 +47,20 @@ The main challenges faced were: compatibility with android devices and successfu
 
 ### Update 30 Nov 2021:
 
-All members of the group managed to successfully implement Face Tracking using Unity AR Foundation. This way we were able to detect the face on an android device. 
-
-The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
+Different lens models were collected in .obj format, but were converted to .prefab by creating a prefab object and then pulling the .obj lenses into that object. 
 
 <p align="center">
 <img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
 </p>
 
 
-### Update 07 Nov 2021:
+### Update 07 Dec 2021:
 
-All members of the group managed to successfully implement Face Tracking using Unity AR Foundation. This way we were able to detect the face on an android device. 
-
-The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
+Successfully performed the attachment of a reference point of the face, and the placement of the lenses. This was done in several stages, in the first tests a prefab object was instantiated, then the position of the eyes was extracted and the position and rotation transformations were instantiated to that prefab object.
 
 <p align="center">
 <img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
 </p>
-
-<!---
-
-### Update 30 Nov 2021:
-
-Successfully implemented the anchoring between the face points and the 3d lens model in unity.
-
-<p align="center">
-<img src="imgs_/face-landmarks-glasses.png" alt="Examples" width="600"/>
-</p>
-
---->
 
 
 
@@ -89,11 +71,8 @@ Download or clone, then Settings Build and Run, then Switch Platform to Android.
 Packages:
 
 - AR Fundation   
-
 - AR Core XR Plugin   
-
 - ARKit Face Tracking   
-
 - ARKit XR Pluigin       
 
 
