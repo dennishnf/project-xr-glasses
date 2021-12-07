@@ -59,7 +59,7 @@ Different lens models were collected in .obj format, but were converted to .pref
 Successfully performed the attachment of a reference point of the face, and the placement of the lenses. This was done in several stages, in the first tests a prefab object was instantiated, then the position of the eyes was extracted and the position and rotation transformations were instantiated to that prefab object.
 
 <p align="center">
-<img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
+<img src="imgs_/glasses-face.png" alt="Examples" width="600"/>
 </p>
 
 
