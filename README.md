@@ -50,7 +50,7 @@ Face detection and extraction of the most relevant points of the face were succe
 Different lens models were collected in .obj format, but were converted to .prefab by creating a prefab object and then pulling the .obj lenses into that object. 
 
 <p align="center">
-<img src="imgs_/Screenshot_20211116-122232_Glasses.jpg" alt="Examples" width="600"/>
+<img src="imgs_/glasses.png" alt="Examples" width="600"/>
 </p>
 
 
