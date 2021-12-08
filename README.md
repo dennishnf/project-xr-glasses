@@ -55,7 +55,7 @@ Face detection and extraction of the most relevant points of the face were succe
 
 ### Update 30 Nov 2021:
 
-Different lens models were collected in .obj format, but were converted to .prefab by creating a prefab object and then pulling the .obj lenses into that object. 
+Different lens models were collected in .obj format, but were converted to .prefab by creating a prefab object and then pulling the .obj lenses into that object. In addition, we tried to instantiate between a prefab object and a landmark point of the face, but we had problems with finding the indicated references.
 
 <p align="center">
 <img src="imgs_/glasses.png" alt="Examples" width="600"/>
