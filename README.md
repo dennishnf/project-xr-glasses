@@ -17,6 +17,8 @@ This project consists of the development of an augmented reality application tha
 Unity Version: 2020.3.20f1   
 Developing Platforms: Ubuntu 20.04     
 Intended Devices: Android   
+Packages: AR Fundation, AR Core XR Plugin
+Packages: ARKit Face Tracking, ARKit XR Pluigin   
 
 
 ## Flowchart
@@ -74,12 +76,7 @@ Successfully performed the attachment of a reference point of the face, and the 
 
 Download or clone, then Settings Build and Run, then Switch Platform to Android.
 
-Packages:
-
-- AR Fundation   
-- AR Core XR Plugin   
-- ARKit Face Tracking   
-- ARKit XR Pluigin       
+Also, install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Pluigin.    
 
 
 
