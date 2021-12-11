@@ -103,9 +103,13 @@ Successfully performed the attachment of a reference point of the face, and the 
 
 ## Using this repository
 
-Download or clone, then Settings Build and Run, then Switch Platform to Android.
+1. Download or clone
 
-Also, install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Pluigin.    
+2. Go to "Settings Build and Run", then select "Android" and then "Switch Platform".
+
+3. Install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Pluigin.   
+
+4. That's all :) 
 
 
 
@@ -119,7 +123,7 @@ Also, install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking
 
 
 
-## Group
+## Group members
 
 - Miky ([@MrMazagngy](https://github.com/MrMazagngy))   
 - Yao ([@iyfyao](https://github.com/iyfyao))    
