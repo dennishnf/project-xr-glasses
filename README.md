@@ -130,7 +130,7 @@ Demo on a Samsung Galaxy S10 (Android 11):
 - [Unity3d ARKit Face Tracking and placing face game objects with anchor data](https://www.youtube.com/watch?v=JQEovMKq2U0)    
 - [Face Tracking using ARKit and AR Foundation with Unity](https://tutorialsforar.com/face-tracking-using-arkit-and-ar-foundation-with-unity/)    
 - [ARKit 3 Face Tracking Tutorial](https://4experience.co/arkit-3-face-tracking/)
-- []()    
+- [ARKit And ARCore - How To Dynamically Select Face Masks](https://www.youtube.com/watch?v=SzMeRtJ8oTc)    
 
 
 
