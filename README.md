@@ -121,6 +121,14 @@ Demo on a Samsung Galaxy S10 (Android 11):
 
 
 
+## Group members
+
+- Maikel BASTAWROUS  ([@MrMazagngy](https://github.com/MrMazagngy))   
+- Yao SINAN  ([@iyfyao](https://github.com/iyfyao))    
+- Dennis NUNEZ FERNANDEZ  ([@dennishnf](https://github.com/dennishnf))   
+
+
+
 ## References
 
 - [AR Foundation Framework - Main Website](https://unity.com/unity/features/arfoundation)
@@ -132,13 +140,6 @@ Demo on a Samsung Galaxy S10 (Android 11):
 - [ARKit 3 Face Tracking Tutorial](https://4experience.co/arkit-3-face-tracking/)
 - [ARKit And ARCore - How To Dynamically Select Face Masks](https://www.youtube.com/watch?v=SzMeRtJ8oTc)    
 
-
-
-## Group members
-
-- Miky ([@MrMazagngy](https://github.com/MrMazagngy))   
-- Yao ([@iyfyao](https://github.com/iyfyao))    
-- Dennis ([@dennishnf](https://github.com/dennishnf))   
 
 
 
