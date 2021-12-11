@@ -87,6 +87,10 @@ Successfully performed the attachment of a reference point of the face, and the 
 <img src="imgs_/final-version-1.gif" alt="Examples" width="300"/>
 </p>
 
+<p align="center">
+<img src="imgs_/final-version-2.gif" alt="Examples" width="300"/>
+</p>
+
 
 
 ## Using this repository
