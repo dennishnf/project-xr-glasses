@@ -107,13 +107,15 @@ Demo on a Samsung Galaxy S10 (Android 11):
 
 ## Using this repository
 
-1. Download or clone
+1. First, download or clone this repository.
 
-2. Go to "Settings Build and Run", then select "Android" and then "Switch Platform".
+2. Open Unity3D, and clic on "Add" in order to add the downloaded project
 
-3. Install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Plugin.   
+3. Go to "Settings Build and Run", then select "Android" and then "Switch Platform".
 
-4. That's all :) 
+4. Install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Plugin.   
+
+5. That's all :) 
 
 
 
