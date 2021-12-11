@@ -18,8 +18,8 @@ Here we implement a Real-Time Virtual Reality App for Android Devices that helps
 
 ## Hardware & Software details
 
-
 Developed in: Ubuntu 20.04 LTS    
+
 Unity version: 2020.3.20f1    
 Unity Packages:    
 ProBuilder    
@@ -31,6 +31,7 @@ ARKit XR Plugin
 Intended Devices:    
 Android Smartphone    
 Versions >= 8.1.0 Oreo    
+
 Tested on:    
 Samsung Galaxy A32 (Android 11)    
 Samsung Galaxy S10 (Android 11)    
