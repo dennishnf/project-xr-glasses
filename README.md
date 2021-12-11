@@ -78,6 +78,14 @@ Successfully performed the attachment of a reference point of the face, and the 
 
 
 
+## Demos
+
+<p align="center">
+<img src="imgs_/final-version-1.gif" alt="Examples" width="600"/>
+</p>
+
+
+
 ## Using this repository
 
 Download or clone, then Settings Build and Run, then Switch Platform to Android.
