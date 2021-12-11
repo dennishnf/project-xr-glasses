@@ -52,14 +52,31 @@ Samsung Galaxy S10 (Android 11)
 ## Pseudo code: 
 
 ```
-start the face detection
-perform landmark extraction
-run pre defined glasses models
+start face detection
+start landmark extraction
+start glasses models
 
-for selected_glasses in models_list:
-	anchor the points of face with glass 3d model
-	show the face with the glasses
-	read option of glasses
+define exit
+define next
+define save
+
+loop forever:
+    if exit==0:
+        PASS
+    if exit==1:
+        STOP
+    if next==1:
+        select the next glasses model
+    if next==0:
+        select the same glasses model
+    if save=0:
+        PASS
+    if save=1:
+        save model
+        STOP
+    read the facial landmarks
+    update glasses position and direction
+    show the glasses in front of face             
 ```
 
 
