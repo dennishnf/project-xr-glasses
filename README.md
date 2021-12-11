@@ -99,7 +99,7 @@ Demo on a Samsung Galaxy S10 (Android 11):
 
 <p align="center">
 <img src=".images-readme/final-version-1.gif" alt="Examples" width="150"/> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
 </p>
 
@@ -123,11 +123,14 @@ Demo on a Samsung Galaxy S10 (Android 11):
 
 ## References
 
+- [AR Foundation Framework - Main Website](https://unity.com/unity/features/arfoundation)
 - [Setting Up AR Foundation](https://learn.unity.com/tutorial/setting-up-ar-foundation#5fe2be51edbc2a1f5e69872f)    
 - [ARKit Face Tracking](https://docs.unity3d.com/Packages/com.unity.xr.arkit-face-tracking@4.1/manual/index.html)    
 - [Unity AR Foundation Tutorial - Getting Started with Face Tracking](https://www.youtube.com/watch?v=y0L_AdJICEU)    
-- [Unity3d ARKit Face Tracking and placing face game objects with anchor data
-](https://www.youtube.com/watch?v=JQEovMKq2U0)    
+- [Unity3d ARKit Face Tracking and placing face game objects with anchor data](https://www.youtube.com/watch?v=JQEovMKq2U0)    
+- [Face Tracking using ARKit and AR Foundation with Unity](https://tutorialsforar.com/face-tracking-using-arkit-and-ar-foundation-with-unity/)    
+- [ARKit 3 Face Tracking Tutorial](https://4experience.co/arkit-3-face-tracking/)
+- []()    
 
 
 
