@@ -81,7 +81,7 @@ Successfully performed the attachment of a reference point of the face, and the 
 ## Demos
 
 <p align="center">
-<img src="imgs_/final-version-1.gif" alt="Examples" width="600"/>
+<img src="imgs_/final-version-1.gif" alt="Examples" width="300"/>
 </p>
 
 
