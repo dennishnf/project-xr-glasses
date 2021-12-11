@@ -29,7 +29,7 @@ ARKit Face Tracking
 ARKit XR Plugin    
 
 Intended Devices:    
-Android Smartphone    
+Android Smartphones    
 Versions >= 8.1.0 Oreo    
 
 Tested on:    
