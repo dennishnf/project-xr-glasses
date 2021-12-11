@@ -18,10 +18,23 @@ Here we implement a Real-Time Virtual Reality App for Android Devices that helps
 
 ## Unity version
 
-Unity Version: 2020.3.20f1   
-Developing Platforms: Ubuntu 20.04 LTS and Windows 10    
-Intended Devices: >= Android 8.1.0 Oreo   
-Packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Pluigin   
+
+Developed in: Ubuntu 20.04 LTS    
+Unity version: 2020.3.20f1    
+Unity Packages:    
+ProBuilder    
+AR Foundation    
+AR Core XR Plugin    
+ARKit Face Tracking    
+ARKit XR Plugin    
+
+Intended Devices:    
+Android Smartphone    
+Versions >= 8.1.0 Oreo    
+Tested on:    
+Samsung Galaxy A32 (Android 11)    
+Samsung Galaxy S10 (Android 11)    
+
 
 
 ## Wireframes
