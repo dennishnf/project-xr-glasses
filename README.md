@@ -24,7 +24,7 @@ Packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Pluigin
 ## Wireframes
 
 <p align="center">
-<img src="imgs_/wireframes.png" alt="Flowchart" width="350"/>
+<img src="imgs_/wireframes.png" alt="Flowchart" width="450"/>
 </p>
 
 ## Flowchart
