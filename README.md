@@ -16,7 +16,7 @@ Here we implement a Real-Time Virtual Reality App for Android Devices that helps
 
 
 
-## Unity version
+## Hardware & Software details
 
 
 Developed in: Ubuntu 20.04 LTS    
