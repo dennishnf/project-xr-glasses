@@ -96,6 +96,7 @@ Successfully performed the attachment of a reference point of the face, and the 
 
 <p align="center">
 <img src=".images-readme/final-version-1.gif" alt="Examples" width="150"/> 
+   
 <img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
 </p>
 
