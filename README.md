@@ -38,13 +38,13 @@ Samsung Galaxy S10 (Android 11)
 ## Wireframes
 
 <p align="center">
-<img src="imgs_/wireframes.png" alt="Flowchart" width="450"/>
+<img src=".images-readme/wireframes.png" alt="Flowchart" width="450"/>
 </p>
 
 ## Flowchart
 
 <p align="center">
-<img src="imgs_/diagram.png" alt="Flowchart" width="340"/>
+<img src=".images-readme/diagram.png" alt="Flowchart" width="340"/>
 </p>
 
 
@@ -69,7 +69,7 @@ for selected_glasses in models_list:
 Face detection and extraction of the most relevant points of the face were successfully implemented. The AR Foundation and ARKit Face Tracking packages were used for this purpose. The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
 
 <p align="center">
-<img src="imgs_/face-mask.png" alt="Examples" width="600"/>
+<img src=".images-readme/face-mask.png" alt="Examples" width="600"/>
 </p>
 
 
@@ -78,7 +78,7 @@ Face detection and extraction of the most relevant points of the face were succe
 Different lens models were collected in .obj format, but were converted to .prefab by creating a prefab object and then pulling the .obj lenses into that object. In addition, we tried to instantiate between a prefab object and a landmark point of the face, but we had problems with finding the indicated references.
 
 <p align="center">
-<img src="imgs_/glasses.png" alt="Examples" width="600"/>
+<img src=".images-readme/glasses.png" alt="Examples" width="600"/>
 </p>
 
 
@@ -87,7 +87,7 @@ Different lens models were collected in .obj format, but were converted to .pref
 Successfully performed the attachment of a reference point of the face, and the placement of the lenses. This was done in several stages, in the first tests a prefab object was instantiated, then the position of the eyes was extracted and the position and rotation transformations were instantiated to that prefab object.
 
 <p align="center">
-<img src="imgs_/glasses-face.png" alt="Examples" width="600"/>
+<img src=".images-readme/glasses-face.png" alt="Examples" width="600"/>
 </p>
 
 
@@ -95,8 +95,8 @@ Successfully performed the attachment of a reference point of the face, and the 
 ## Demos
 
 <p align="center">
-<img src="imgs_/final-version-1.gif" alt="Examples" width="150"/> 
-<img src="imgs_/final-version-2.gif" alt="Examples" width="150"/>
+<img src=".images-readme/final-version-1.gif" alt="Examples" width="150"/> 
+<img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
 </p>
 
 
