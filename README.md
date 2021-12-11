@@ -115,7 +115,9 @@ Demo on a Samsung Galaxy S10 (Android 11):
 
 4. Install the packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Plugin.   
 
-5. That's all :) 
+5. Then you can moddify the project or Build and Run on your Android smartphone. 
+
+6. That's all, enjoy! :) 
 
 
 
