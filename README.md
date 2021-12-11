@@ -69,7 +69,7 @@ for selected_glasses in models_list:
 Face detection and extraction of the most relevant points of the face were successfully implemented. The AR Foundation and ARKit Face Tracking packages were used for this purpose. The main challenges faced were: compatibility with android devices and successfully configuring the building options. 
 
 <p align="center">
-<img src=".images-readme/face-mask.png" alt="Examples" width="600"/>
+<img src=".images-readme/face-mask.png" alt="Examples" width="500"/>
 </p>
 
 
@@ -78,7 +78,7 @@ Face detection and extraction of the most relevant points of the face were succe
 Different lens models were collected in .obj format, but were converted to .prefab by creating a prefab object and then pulling the .obj lenses into that object. In addition, we tried to instantiate between a prefab object and a landmark point of the face, but we had problems with finding the indicated references.
 
 <p align="center">
-<img src=".images-readme/glasses.png" alt="Examples" width="600"/>
+<img src=".images-readme/glasses.png" alt="Examples" width="500"/>
 </p>
 
 
@@ -87,7 +87,7 @@ Different lens models were collected in .obj format, but were converted to .pref
 Successfully performed the attachment of a reference point of the face, and the placement of the lenses. This was done in several stages, in the first tests a prefab object was instantiated, then the position of the eyes was extracted and the position and rotation transformations were instantiated to that prefab object.
 
 <p align="center">
-<img src=".images-readme/glasses-face.png" alt="Examples" width="600"/>
+<img src=".images-readme/glasses-face.png" alt="Examples" width="500"/>
 </p>
 
 
