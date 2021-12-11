@@ -10,7 +10,10 @@
 
 ## Description
 
-This project consists of the development of an augmented reality application that allows users to quickly and easily try on various models of glasses and visualize in real time the price as well as their design. 
+Select the best glasses is time consuming and need to physically search in different shops.    
+
+Here we implement a Real-Time Virtual Reality App for Android Devices that helps people to test a different variety of glasses without the need to physically test them. 
+
 
 
 ## Unity version
