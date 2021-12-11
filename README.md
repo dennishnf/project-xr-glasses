@@ -33,7 +33,7 @@ Packages: AR Fundation, AR Core XR Plugin, ARKit Face Tracking, ARKit XR Pluigin
 ## Flowchart
 
 <p align="center">
-<img src="imgs_/diagram.png" alt="Flowchart" width="350"/>
+<img src="imgs_/diagram.png" alt="Flowchart" width="340"/>
 </p>
 
 
