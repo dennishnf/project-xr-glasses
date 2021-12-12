@@ -137,4 +137,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   glasses: {fileID: 3534539807509309203, guid: c84699305dd6c1d44b425b514e6b9bfb, type: 3}
-  cubeMarker: {fileID: 0}
+  objtxMarker: {fileID: 0}
