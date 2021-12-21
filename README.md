@@ -120,6 +120,12 @@ Demo on a Samsung Galaxy S10 (Android 11):
 <img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
 </p>
 
+<p align="center">
+<img src=".images-readme/final-version-1.gif" alt="Examples" width="150"/> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
+</p>
+
 
 
 ## Using this repository
