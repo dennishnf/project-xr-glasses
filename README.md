@@ -118,12 +118,8 @@ Demo on a Samsung Galaxy S10 (Android 11):
 <img src=".images-readme/final-version-1.gif" alt="Examples" width="150"/> 
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
-</p>
-
-<p align="center">
-<img src=".images-readme/ezgif.com-gif-maker-38.gif" alt="Examples" width="150"/> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src=".images-readme/ezgif.com-gif-maker-44.gif" alt="Examples" width="150"/>
+<img src=".images-readme/final-version-3.gif" alt="Examples" width="150"/>
 </p>
 
 
