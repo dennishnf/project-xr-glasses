@@ -115,11 +115,11 @@ Successfully performed the attachment of a reference point of the face, and the 
 Demo on a Samsung Galaxy S10 (Android 11):
 
 <p align="center">
-<img src=".images-readme/final-version-1.gif" alt="Examples" height="350"/> 
+<img src=".images-readme/final-version-1.gif" alt="Examples" width="150"/> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src=".images-readme/final-version-2.gif" alt="Examples" height="350"/>
+<img src=".images-readme/final-version-2.gif" alt="Examples" width="150"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src=".images-readme/final-version-3.gif" alt="Examples" height="350"/>
+<img src=".images-readme/final-version-3.gif" alt="Examples" width="150"/>
 </p>
 
 
